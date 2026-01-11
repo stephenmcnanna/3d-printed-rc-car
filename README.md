@@ -28,7 +28,8 @@ into a functional vehicle using modular, non-soldered components.
 ## Future Improvements
 - Improved suspension geometry
 - Higher torque motor options
-- Enclosed electronics housing
+- Modular electronics layout with planned enclosure integration
+
 
 ## What I Learned
 - Mechanical tolerancing for 3D printing
