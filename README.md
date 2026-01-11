@@ -34,3 +34,11 @@ into a functional vehicle using modular, non-soldered components.
 - Mechanical tolerancing for 3D printing
 - Basic motor control using PWM
 - Designing parts for manufacturability
+
+## Project Images
+
+![Assembled RC Car](images/assembled-rc-car.png)
+
+![Steering Rack Design](images/steering-rack.png)
+
+![Drivetrain Layout](images/drivetrain.png)
