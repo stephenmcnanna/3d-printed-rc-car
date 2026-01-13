@@ -95,7 +95,7 @@ into a functional vehicle using modular, non-soldered components.
 
 ### Fabrication / Consumables
 - PLA filament (~1100g) (used to 3D print parts)
-- Solder + heat shrink tubing (as needed)
+- Solder (as needed)
 - Velcro ties (as needed) (cable + battery management)
 
 ### 3D Printed Parts
@@ -122,5 +122,5 @@ into a functional vehicle using modular, non-soldered components.
 
 ### Fabrication & Assembly
 - Breadboard and jumper wires for prototyping
-- Solder and heat shrink tubing for final electrical connections
+- Solder for final electrical connections
 - Hand tools for tolerance adjustment and mechanical assembly
