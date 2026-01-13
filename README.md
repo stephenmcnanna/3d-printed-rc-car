@@ -43,3 +43,34 @@ into a functional vehicle using modular, non-soldered components.
 ![Steering Rack Design](images/steering-rack.png)
 
 ![Drivetrain Layout](images/drivetrain.png)
+
+## CAD Models and Drawings
+
+### Arm Bar
+![Arm Bar 3D](images/Arm_Bar_3d.png)
+![Arm Bar Drawing](images/Arm_Bar_3d_drawing.png)
+
+### Back Chassis
+![Back Chassis Drawing](images/Back_Chassis_3d_drawing.png)
+
+### Front Chassis
+![Front Chassis 3D](images/Front_Chassis_3d.png)
+![Front Chassis Drawing](images/Front_Chassis_3d_drawing.png)
+
+### Chassis Connection
+![Chassis Connection 3D](images/Chassis_Connection_3d.png)
+![Chassis Connection Drawing](images/Chassis_Connection_3d_drawing.png)
+
+### Gear System
+
+#### Drive Gear
+![Drive Gear 3D](images/Drive_gear_3d.png)
+![Drive Gear Drawing](images/Drive_Gear_3d_drawing.png)
+
+#### Driven Gear
+![Driven Gear 3D](images/Driven_Gear_3d.png)
+![Driven Gear Drawing](images/Driven_Gear_3d_drawing.png)
+
+### Motor Mount
+![Motor Mount 3D](images/Motor_Mount_3d.png)
+![Motor Mount Drawing](images/Motor_Mount_3d_drawing.png)
