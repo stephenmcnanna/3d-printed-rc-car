@@ -100,3 +100,27 @@ into a functional vehicle using modular, non-soldered components.
 
 ### 3D Printed Parts
 - 3D printed parts (10+ printed parts) — all non-electrical and non-metal parts
+
+## Tools & Equipment Used
+
+### CAD & Software
+- Autodesk Inventor — 3D modeling, assemblies, and engineering drawings
+- Cura — slicing STL files into G-code for FDM printing
+
+### Additive Manufacturing
+- NJIT Makerspace FDM 3D printers
+- Creality Ender 3 V2 (personal printer)
+- PLA filament used for all printed components
+
+### Makerspace & Shop Tools
+- Soldering iron (electrical connections)
+- Screwdrivers (assembly)
+- Allen wrenches (fasteners and set screws)
+- Pliers
+- Hand drills
+- Rotary tools (minor post-processing and fitment)
+
+### Fabrication & Assembly
+- Breadboard and jumper wires for prototyping
+- Solder and heat shrink tubing for final electrical connections
+- Hand tools for tolerance adjustment and mechanical assembly
