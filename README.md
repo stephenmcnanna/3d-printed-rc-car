@@ -74,3 +74,29 @@ into a functional vehicle using modular, non-soldered components.
 ### Motor Mount
 ![Motor Mount 3D](images/Motor_Mount_3d.png)
 ![Motor Mount Drawing](images/Motor_Mount_3d_drawing.png)
+
+## Materials & Components (Bill of Materials)
+
+### Electronics
+- Elegoo Arduino Uno R3 (x1)
+- L298N dual H-bridge motor driver (x1)
+- N20 6V 300RPM high-torque gear motor (x1)
+- URGENEX 7.4V Li-ion battery w/ Deans T-connector (x1)
+- 2.4 GHz RC transmitter + receiver (x1)
+- Breadboard + jumper wires (assorted pack)
+- 9g micro servo for steering (x1)
+
+### Mechanical Hardware
+- Hex couplers (3mm) (x4)
+- Uxcell bearings: 3mm ID / 6mm OD (x2)
+- 3mm steel rods (rear axle) (x1)
+- M2 / M3 / M4 / M5 screws + nuts (assorted pack)
+- 18 gauge galvanized steel wire (~4 inches) (steering linkage)
+
+### Fabrication / Consumables
+- PLA filament (~1100g) (used to 3D print parts)
+- Solder + heat shrink tubing (as needed)
+- Velcro ties (as needed) (cable + battery management)
+
+### 3D Printed Parts
+- 3D printed parts (10+ printed parts) — all non-electrical and non-metal parts
