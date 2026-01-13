@@ -26,7 +26,7 @@ into a functional vehicle using modular, non-soldered components.
 - Final assembly and wiring
 
 ## Future Improvements
-- Improved suspension geometry
+- Add Suspension
 - Higher torque motor options
 - Modular electronics layout with planned enclosure integration
 
